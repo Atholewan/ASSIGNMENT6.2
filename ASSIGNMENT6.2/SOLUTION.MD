@@ -18,7 +18,7 @@ Aim: To create three differently styled cards using CSS backgrounds, borders, ro
 | `display: inline`       | Flows with surrounding text; width and height do not work like they do on block boxes. |
 | `display: inline-block` | Flows inline while allowing explicit width and height.                                 |
 
-## 2. SCREENSHOT OF WBSITE OUTPUT
+## 2. SCREENSHOT OF WEBSITE OUTPUT
 ![alt text](<6.2 CSS STYLING PAGE.png>)
 
 
